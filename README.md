@@ -1,5 +1,3 @@
-# 제목 없음
-
 # 🗓BaekJoon 1Day - 1Solution Challenge
 
 📌시간이 많으면 2 문제, 시간이 없어도 하루 1 문제 풀기
