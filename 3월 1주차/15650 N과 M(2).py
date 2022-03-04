@@ -5,8 +5,9 @@
 # 나타내고, 아닐경우에는 오름차순이 아니므로 출력하지 않는다.
 
 def dfs(num):
-    if num == M and sorted(graph) == graph:
-        print(' '.join(map(str, graph)))
+    if num == M:
+        if sorted(graph) == graph:
+            print(' '.join(map(str, graph)))
         return
 
     for i in range(1, N+1):

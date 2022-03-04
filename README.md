@@ -1,4 +1,4 @@
-# 🗓BaekJoon 1Day - 1Solution Challenge
+# 🗓 BaekJoon 1 Day - 1 Solution Challenge
 
 📌시간이 많으면 2 문제, 시간이 없어도 하루 1 문제 풀기
 
@@ -10,3 +10,7 @@
 - N과 M(1) - 백트레킹
 - N과 M(2) - 백트레킹
 - N과 M(3) - 백트레킹
+- N과 M(4) - 백트레킹
+
+### 03/03
+- n-Queens =  백트레킹
