@@ -8,7 +8,6 @@ def check(q):
 def dfs(num):
     global count
     if num == n:
-
         count += 1
         return
     
@@ -16,7 +15,6 @@ def dfs(num):
         row[num] = i
         if check(num):
             dfs(num + 1)
-
 
 import sys
 
