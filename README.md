@@ -1,4 +1,4 @@
-# 🗓 BaekJoon 1 Day - 1 Solution Challenge
+# 🗓 BaekJoon 1 Day - 1 Solve Challenge
 
 📌시간이 많으면 2 문제, 시간이 없어도 하루 1 문제 풀기
 
@@ -57,4 +57,6 @@
 - 10809 알파벳
 - 11820 숫자의 합
 
+### 3월 16일
+- 1918 후위표기식 - 스택
 
